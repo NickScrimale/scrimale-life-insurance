@@ -112,7 +112,7 @@ nav ul li {
 
 .hero img {
   height: 37.5rem;
-  width: 30.5rem;
+  width: 27.5rem;
 }
 
 .bio {
@@ -217,6 +217,10 @@ nav ul li {
 /* Contacts section */
 .contact {
   margin-top: 2rem;
+}
+
+.contact p {
+  text-align: center;
 }
 
 .contact h2 {
